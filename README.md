@@ -21,3 +21,6 @@ as first-class design constraints, rather than limitations.
   A distilled AI interaction specification developed through extended dialogue,
   where a broader reasoning framework (principles, layers, modes)
   was reduced to only those elements necessary for responsibility-boundary recognition.
+  The UX layer (zr-ux) makes these boundaries recognizable in interaction,
+  lowering the cognitive burden without providing conclusions.
+
