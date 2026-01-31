@@ -13,12 +13,15 @@ as first-class design constraints, rather than limitations.
 ## Main Work
 
 - **Structure-based Reasoning Core / Axis Loss**  
-  A collection of structure-based analysis artifacts focused on
-  axis loss across layered systems—including failure boundaries,
-  responsibility attribution, and non-remediable constraints.
+  A collection of structure-based analysis artifacts focused on axis loss across layered systems.
 
-  LLM-assisted systems are treated as one observable instance,
-  not the defining scope.
+  Focus areas include:
+  - failure boundaries
+  - responsibility attribution
+  - non-remediable constraints
+
+  LLM-assisted systems are treated as one observable instance, not the defining scope.
+  
   → https://github.com/aNitMotD/structure-based-reasoning-core
 
 ## Other Work
