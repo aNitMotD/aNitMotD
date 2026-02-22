@@ -37,7 +37,7 @@ as first-class design constraints, rather than limitations.
 **ZR-UX** — archived exploratory UX model  
 → https://github.com/aNitMotD/zr-ux
 
-## Job — QA Tester
+## Job — QA Tester (Since 2020.05-)
 
 Focuses on issue reproducibility,
 failure condition definition,
