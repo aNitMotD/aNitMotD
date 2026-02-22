@@ -29,7 +29,7 @@ as first-class design constraints, rather than limitations.
 - **Zero Reflect**  
   → https://github.com/aNitMotD/zero-reflect
 
-- **ZR-UX**  
+- **ZR-UX** (archived exploratory UX model)
   → https://github.com/aNitMotD/zr-ux
 
 - **Microsoft 365 Copilot RCA Notes**  
