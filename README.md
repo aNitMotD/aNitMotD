@@ -29,8 +29,10 @@ as first-class design constraints, rather than limitations.
 - **Zero Reflect**  
   → https://github.com/aNitMotD/zero-reflect
 
-- **ZR-UX** (archived exploratory UX model)
-  → https://github.com/aNitMotD/zr-ux
-
 - **Microsoft 365 Copilot RCA Notes**  
   → https://github.com/SnosMe/awakened-poe-trade/issues/1737
+
+## Archived Work
+
+**ZR-UX** — archived exploratory UX model
+→ https://github.com/aNitMotD/zr-ux
