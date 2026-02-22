@@ -36,3 +36,29 @@ as first-class design constraints, rather than limitations.
 
 **ZR-UX** — archived exploratory UX model  
 → https://github.com/aNitMotD/zr-ux
+
+## Job — QA Tester
+
+Focuses on issue reproducibility,
+failure condition definition,
+and responsibility-boundary clarification,
+using functional and behavioral testing as analytical instruments.
+
+- Perform functional and behavioral validation to identify defects.
+- Produce issue reports based on reproducible conditions and observed behavior.
+- When issues fall outside the team’s responsibility scope,
+  define problem validity conditions and articulate responsibility boundaries
+  for traceability and accountability.
+
+## Scope Note
+
+My job description reflects what I do at work.
+
+My repositories document structures observed and analyzed
+across everyday contexts involving humans
+and systems (including AI),
+independent of my job role.
+
+Repository content is observational and analytical,
+not job-specific practices, methods, or operational guidance.
+
