@@ -34,5 +34,5 @@ as first-class design constraints, rather than limitations.
 
 ## Archived Work
 
-**ZR-UX** — archived exploratory UX model
+**ZR-UX** — archived exploratory UX model  
 → https://github.com/aNitMotD/zr-ux
