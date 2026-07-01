@@ -26,6 +26,11 @@ as first-class design constraints, rather than limitations.
 
 ## Other Work
 
+- **Structural Analysis Entry**  
+  Public entry-layer materials for general structural analysis, distinct from the author’s specific formalization work.
+
+  → https://github.com/aNitMotD/structural-analysis-entry
+
 - **Zero Reflect**  
   → https://github.com/aNitMotD/zero-reflect
 
