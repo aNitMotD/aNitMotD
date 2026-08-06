@@ -1,12 +1,14 @@
 ## About
 
+> Issue Reproduction & Isolation · System-level Issue Analysis · Root Cause Support · Escalation · AI-assisted Analysis (Human-in-the-loop)
+
 Structure-based reasoning.  
 Focused on boundaries, responsibility, and failure modes.
 
 I tend to approach human–AI interaction problems  
 as responsibility-boundary problems rather than capability problems.
 
-Some of the work I publish (e.g., Zero Reflect)  
+Some published work (e.g., Zero Reflect)  
 emerged from treating non-decision and boundary marking  
 as first-class design constraints, rather than limitations.
 
