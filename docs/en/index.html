@@ -1,8 +1,51 @@
-<!-- en/index.html -->
-<h1>aNitMotD</h1>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<nav>
-  <a href="./profile.html">Profile</a>
-  <a href="./entry.html">Entry</a>
-  <a href="./rp.html">Narrative RP</a>
-</nav>
+  <title>aNitMotD</title>
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: system-ui, sans-serif;
+    }
+
+    main {
+      text-align: center;
+    }
+
+    .navigation {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin-top: 2rem;
+    }
+
+    a {
+      padding: 0.8rem 1.4rem;
+      border: 1px solid currentColor;
+      border-radius: 0.5rem;
+      color: inherit;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>aNitMotD</h1>
+
+    <div class="navigation">
+      <a href="./profile.html">Profile</a>
+      <a href="./entry.html">Entry</a>
+      <a href="./rp.html">Narrative RP</a>
+    </div>
+  </main>
+</body>
+</html>
